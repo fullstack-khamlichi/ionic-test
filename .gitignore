@@ -17,8 +17,6 @@ $RECYCLE.BIN/
 log.txt
 npm-debug.log*
 
-node_modules
-
 /.angular
 /.idea
 /.ionic
