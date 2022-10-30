@@ -7,6 +7,16 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+
   constructor() {}
+
+  test() {
+    console.log('FAB is clicked');
+  }
+
+  share(site: string) {
+    console.log('share wih ' + site);
+
+  }
 
 }
